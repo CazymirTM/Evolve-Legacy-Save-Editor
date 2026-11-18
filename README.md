@@ -46,6 +46,8 @@ Get **`Evolve Save Editor.exe`** (or the zip) from the [Releases](../../releases
 > [!IMPORTANT]
 > Always close Evolve before saving. The game keeps your profile in memory and overwrites the file when it saves.
 
+![GUI of the program](gui.png)
+
 ## How it works
 
 Evolve stores your profile in an encrypted `attributes.xml` (a `TRSEVLVPC` header followed by XML encrypted with a fixed XOR keystream). The key is the same for every player, and the editor ships with a known part of it.
