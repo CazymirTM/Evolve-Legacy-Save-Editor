@@ -6,7 +6,6 @@
 
 <p align="center">
   A save editor for <b>Evolve Legacy</b>: change your XP, level, character XP and every other value in your profile.<br>
-  <b>Made by CeZeY22</b>
 </p>
 
 ---
